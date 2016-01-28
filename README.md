@@ -3,6 +3,9 @@
 
     在网上看到一个大神的视频，说的是怎么在android上使用pd，一开始并不知道什么是PD，然后查了下资料.了解了一点点，现在记录下步骤，(怎么跑起   来这个Demo的)
 [大神github链接](https://github.com/libpd/pd-for-android)
+
+
+
     step:
     1.git clone https://github.com/libpd/pd-for-android.git
     2.cd pd-for-android/
