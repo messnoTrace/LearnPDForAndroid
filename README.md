@@ -1,4 +1,5 @@
-### PD Pure Data初体验
+ PD Pure Data初体验
+ ----------------
 
     在网上看到一个大神的视频，说的是怎么在android上使用pd，一开始并不知道什么是PD，然后查了下资料.了解了一点点，现在记录下步骤，(怎么跑起来这个Demo的)
 [大神github链接](https://github.com/libpd/pd-for-android)
